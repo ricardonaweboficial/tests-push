@@ -1,5 +1,5 @@
 alert('Hello World');
 
-function merge() {
-	return 'alert';
+function conflitMerge() {
+	return 'conflitMerge';
 }
